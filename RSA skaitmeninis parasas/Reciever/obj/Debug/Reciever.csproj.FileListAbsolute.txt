@@ -1,0 +1,10 @@
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\bin\Debug\Reciever.exe.config
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\bin\Debug\Reciever.exe
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\bin\Debug\Reciever.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\bin\Debug\RSAEncryptionLibary.dll
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\bin\Debug\RSAEncryptionLibary.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\obj\Debug\Reciever.csproj.AssemblyReference.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\obj\Debug\Reciever.csproj.CoreCompileInputs.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\obj\Debug\Reciever.csproj.CopyComplete
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\obj\Debug\Reciever.exe
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Reciever\obj\Debug\Reciever.pdb

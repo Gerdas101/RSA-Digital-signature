@@ -1,0 +1,10 @@
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\bin\Debug\Sender.exe.config
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\bin\Debug\Sender.exe
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\bin\Debug\Sender.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\bin\Debug\RSAEncryptionLibary.dll
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\bin\Debug\RSAEncryptionLibary.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\obj\Debug\Sender.csproj.AssemblyReference.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\obj\Debug\Sender.csproj.CopyComplete
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\obj\Debug\Sender.exe
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Sender\obj\Debug\Sender.pdb

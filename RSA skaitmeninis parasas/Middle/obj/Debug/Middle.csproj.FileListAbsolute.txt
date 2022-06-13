@@ -1,0 +1,10 @@
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\bin\Debug\Middle.exe.config
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\bin\Debug\Middle.exe
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\bin\Debug\Middle.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\bin\Debug\RSAEncryptionLibary.dll
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\bin\Debug\RSAEncryptionLibary.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\obj\Debug\Middle.csproj.CoreCompileInputs.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\obj\Debug\Middle.csproj.CopyComplete
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\obj\Debug\Middle.exe
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\obj\Debug\Middle.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\Middle\obj\Debug\Middle.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\RSAEncryptionLibary\bin\Debug\RSAEncryptionLibary.dll
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\RSAEncryptionLibary\bin\Debug\RSAEncryptionLibary.pdb
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\RSAEncryptionLibary\obj\Debug\RSAEncryptionLibary.csproj.AssemblyReference.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\RSAEncryptionLibary\obj\Debug\RSAEncryptionLibary.csproj.CoreCompileInputs.cache
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\RSAEncryptionLibary\obj\Debug\RSAEncryptionLibary.dll
+C:\Users\gerda\Desktop\RSA skaitmeninis parasas\RSAEncryptionLibary\obj\Debug\RSAEncryptionLibary.pdb
